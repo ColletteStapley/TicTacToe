@@ -6,7 +6,7 @@ This program is a basic Tic Tac Toe game. It starts with a 3-by-3 grid, labeled 
 
 This code was written mostly for the purpose of learning Kotlin
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SmNTBnXqUZE)
 
 # Development Environment
 
@@ -18,11 +18,11 @@ Kotlin, uses Java
 
 {Make a list of websites that you found helpful in this project}
 * [Kotlin ](https://kotlinlang.org/docs/home.html)
-* [YouTube](http://youtube.com)
+* [YouTube](https://www.youtube.com/)
 
 # Future Work
 
 * Fix the input for board issue
 * Include Player names
-* Maybe impliment a computer player for single player mode
+* Maybe implement a computer player for single player mode
 * Add a score for multi-Game Play
